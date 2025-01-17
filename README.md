@@ -28,7 +28,7 @@ This overview outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-                                                     INTAKE
+                                                        INTAKE
 
 ![IMG_9824](https://github.com/user-attachments/assets/1e70f7e6-9ebb-4526-8d62-73a806c9817d)
 
